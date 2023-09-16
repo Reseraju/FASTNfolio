@@ -1,6 +1,6 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
--- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: reseraju.github.io/fastnfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Blog/blog-7
 
 -- lib.page:
 
@@ -14,14 +14,26 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm Reese Raju
-cta-button-1: Resume
-link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
 
-I'm Reese Raju, S7 CSE A , St. Joseph's College of Engineering and Technology.
+
+-- lib.hero-1: I'm Reese Raju
+cta-button-1: Resume
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-button-2: Schedule Metting
+link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cover: $assets.files.assets.reese.jpg
+
+Computer Science Student at St. Joseph's College of Engineering & Technology, Palai.
+
+
+
+-- lib.contact-2: Contact Me
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+
+
+Let's start a conversation.
+
 
 
 -- end: lib.page
